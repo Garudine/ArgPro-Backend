@@ -1,4 +1,4 @@
-FROM amazoncorretto:11-alpine-jdk
-MAINTAINER Ivanna
-COPY target/garu-0.0.1-SNAPSHOT.jar garu-app.jar
-ENTRYPOINT ["java", "-jar", "/garu-app.jar"]
+FROM ibm-semeru-runtimes:open-11-jre-focal
+EXPOSE 8080
+ADD ./target/*.jar ./app.jar
+CMD java -Djava.security.egd=file:/dev/./urandon -jar app.jar
