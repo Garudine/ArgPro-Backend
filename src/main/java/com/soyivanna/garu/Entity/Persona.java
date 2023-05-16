@@ -1,26 +1,76 @@
 package com.soyivanna.garu.Entity;
 
-import java.io.Serializable;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
-import lombok.Getter;
-import lombok.Setter;
-import org.springframework.data.annotation.Id;
+import javax.persistence.Id;
 
-@Getter @Setter
 @Entity
-public class Persona implements Serializable {
+public class Persona {
     
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @javax.persistence.Id
-    private Long id;
+    private int id;
     private String nombre;
     private String apellido;
     private String puesto;
     private String imgBanner;
-    private String imgPerfil;
+    
+    ////CONSTRUCTORES
+
+    public Persona() {
+    }
+
+    public Persona(String nombre, String apellido, String puesto, String imgBanner) {
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.puesto = puesto;
+        this.imgBanner = imgBanner;
+    }
+
+    //// GETTERS Y SETTERS
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public String getApellido() {
+        return apellido;
+    }
+
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
+    }
+
+    public String getPuesto() {
+        return puesto;
+    }
+
+    public void setPuesto(String puesto) {
+        this.puesto = puesto;
+    }
+
+    public String getImgBanner() {
+        return imgBanner;
+    }
+
+    public void setImgBanner(String imgBanner) {
+        this.imgBanner = imgBanner;
+    }
+
+
     
     
 }

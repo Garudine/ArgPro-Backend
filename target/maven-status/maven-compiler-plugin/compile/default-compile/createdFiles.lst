@@ -25,6 +25,7 @@ com\soyivanna\garu\Security\Service\UserDetailsImpl.class
 com\soyivanna\garu\Dto\dtoRedesFoo.class
 com\soyivanna\garu\Entity\Persona.class
 com\soyivanna\garu\Security\Dto\LoginUsuario.class
+com\soyivanna\garu\Dto\dtoPersonas.class
 com\soyivanna\garu\Security\Enums\RolNombre.class
 com\soyivanna\garu\Repository\RExperiencia.class
 com\soyivanna\garu\Repository\RRedesFoo.class
@@ -40,7 +41,6 @@ com\soyivanna\garu\Security\Entity\UsuarioPrincipal.class
 com\soyivanna\garu\Dto\dtoExperiencia.class
 com\soyivanna\garu\Service\SEducacion.class
 com\soyivanna\garu\Repository\RProyectos.class
-com\soyivanna\garu\Interface\IPersonaService.class
 com\soyivanna\garu\Security\Entity\Rol.class
 com\soyivanna\garu\Security\Entity\Usuario.class
 com\soyivanna\garu\Controller\CEducacion.class
