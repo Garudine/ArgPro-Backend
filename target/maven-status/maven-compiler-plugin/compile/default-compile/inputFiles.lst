@@ -4,10 +4,12 @@ D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivan
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Repository\RExperiencia.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Security\Dto\JwtDto.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Controller\CRedesFoo.java
+D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Repository\RPerfil.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Service\SRedesFoo.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Security\Enums\RolNombre.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Service\SHabilidades.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Dto\dtoEducacion.java
+D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Controller\CPerfil.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Controller\ExperienciaController.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Entity\Experiencia.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Security\Repository\iRolRepository.java
@@ -22,6 +24,7 @@ D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivan
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Security\Service\RolService.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Entity\Persona.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Repository\RProyectos.java
+D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Entity\Perfil.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Repository\IPersonaRepository.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Dto\dtoPersonas.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Security\Service\UserDetailsImpl.java
@@ -36,6 +39,8 @@ D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivan
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Security\jwt\JwtTokenFilter.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Dto\dtoRedesFoo.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Entity\Habilidades.java
+D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Dto\dtoPerfil.java
+D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Service\SPerfil.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Entity\RedesFoo.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Security\Controller\Mensaje.java
 D:\Garudine\Proyecto Argentina Programa\ArgPro-Backend\src\main\java\com\soyivanna\garu\Dto\dtoProyectos.java

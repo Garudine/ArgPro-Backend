@@ -4,6 +4,7 @@ com\soyivanna\garu\Entity\Experiencia.class
 com\soyivanna\garu\Entity\RedesFoo.class
 com\soyivanna\garu\Security\jwt\JwtProvider.class
 com\soyivanna\garu\Controller\ExperienciaController.class
+com\soyivanna\garu\Dto\dtoPerfil.class
 com\soyivanna\garu\Entity\Habilidades.class
 com\soyivanna\garu\Dto\dtoEducacion.class
 com\soyivanna\garu\Entity\Proyectos.class
@@ -19,12 +20,14 @@ com\soyivanna\garu\Security\Dto\NuevoUsuario.class
 com\soyivanna\garu\Security\Repository\iRolRepository.class
 com\soyivanna\garu\Repository\RHabilidades.class
 com\soyivanna\garu\Dto\dtoHabilidades.class
+com\soyivanna\garu\Controller\CPerfil.class
 com\soyivanna\garu\Repository\REducacion.class
 com\soyivanna\garu\Security\jwt\JwtEntryPoint.class
 com\soyivanna\garu\Security\Service\UserDetailsImpl.class
 com\soyivanna\garu\Dto\dtoRedesFoo.class
 com\soyivanna\garu\Entity\Persona.class
 com\soyivanna\garu\Security\Dto\LoginUsuario.class
+com\soyivanna\garu\Service\SPerfil.class
 com\soyivanna\garu\Dto\dtoPersonas.class
 com\soyivanna\garu\Security\Enums\RolNombre.class
 com\soyivanna\garu\Repository\RExperiencia.class
@@ -40,10 +43,12 @@ com\soyivanna\garu\Service\ImpPersonaService.class
 com\soyivanna\garu\Security\Entity\UsuarioPrincipal.class
 com\soyivanna\garu\Dto\dtoExperiencia.class
 com\soyivanna\garu\Service\SEducacion.class
+com\soyivanna\garu\Entity\Perfil.class
 com\soyivanna\garu\Repository\RProyectos.class
 com\soyivanna\garu\Security\Entity\Rol.class
 com\soyivanna\garu\Security\Entity\Usuario.class
 com\soyivanna\garu\Controller\CEducacion.class
 com\soyivanna\garu\Controller\CHabilidades.class
 com\soyivanna\garu\Security\Controller\Mensaje.class
+com\soyivanna\garu\Repository\RPerfil.class
 com\soyivanna\garu\Security\MainSecurity.class
