@@ -40,6 +40,7 @@ com\soyivanna\garu\Service\SProyectos.class
 com\soyivanna\garu\Repository\IPersonaRepository.class
 com\soyivanna\garu\Entity\Educacion.class
 com\soyivanna\garu\Service\ImpPersonaService.class
+com\soyivanna\garu\WebConfig.class
 com\soyivanna\garu\Security\Entity\UsuarioPrincipal.class
 com\soyivanna\garu\Dto\dtoExperiencia.class
 com\soyivanna\garu\Service\SEducacion.class
