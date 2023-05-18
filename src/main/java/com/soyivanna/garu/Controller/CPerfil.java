@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/perfil")
-@CrossOrigin(origins = {"https://argentinaprograma-ivanna.web.app","http://localhost:4200"})
+@CrossOrigin(origins = {"https://soyivanna.web.app","http://localhost:4200"})
 public class CPerfil {
     @Autowired
     SPerfil sPerfil;
